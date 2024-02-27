@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/Piyush_github_header_banner.png"  />
+  <img height="200" width="500" src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/Piyush_github_header_banner.png"  />
 </div>
 
 ###
@@ -103,6 +103,16 @@
   <a href="https://www.hackerrank.com/profile/saxena345678" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+</div>
+
+###
+
+<p align="left">Profile views:</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Saxena-PiyushOfficial/count.svg?"  />
 </div>
 
 ###
