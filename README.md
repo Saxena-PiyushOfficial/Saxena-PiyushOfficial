@@ -26,9 +26,13 @@
 
 <br clear="both">
 
-<img align="left" height="173" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75"  />
+<div align="center">
+  <img height="206" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h2 align="center">🚀 Technologies & Tools:</h2>
 
@@ -70,7 +74,9 @@
 
 ###
 
-<img src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/snake.yml" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/output/snake.svg" alt="Snake animation" />
 
 ###
 
