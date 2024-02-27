@@ -70,16 +70,6 @@
 
 ###
 
-<h2 align="left">My Commits:</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saxena-PiyushOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -107,7 +97,7 @@
 
 ###
 
-<p align="left">Profile views:</p>
+<h2 align="left">Profile views:</h2>
 
 ###
 
