@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="500" src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/Piyush_github_header_banner.png"  />
+  <img height="200" width="1500" src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/Piyush_github_header_banner.png"  />
 </div>
 
 ###
