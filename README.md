@@ -28,11 +28,11 @@
 
 ###
 
-<h2 align="left">🚀 Technologies & Tools:</h2>
+<h2 align="center">🚀 Technologies & Tools:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
