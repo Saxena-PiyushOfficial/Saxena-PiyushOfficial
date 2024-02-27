@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Saxena-PiyushOfficial/Saxena-PiyushOfficial/blob/main/snake.yml" />
 
 ###
 
