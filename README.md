@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="173" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75"  />
 
 ###
