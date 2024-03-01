@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h2 align="center">🚀 Technologies & Tools:</h2>
+<h2 align="left">🚀 Technologies & Tools:</h2>
 
 ###
 
