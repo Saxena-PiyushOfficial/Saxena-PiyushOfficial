@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">💡 Aspiring Full Stack Developer...</h2>
+<h2 align="left">💡Full Stack Java Developer...</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hey there! I'm on a thrilling journey, navigating through the ever-expanding digital landscape.<br> <br>-🚀 Currently working on various Web Based Projects that spark my creativity.<br>- Actively engaged in mastering the art of Full-Stack-Web Development.<br>- 🎯 My goal: Attaining expertise in Full Stack Development by the end of 2024.<br><br>🌈 Fun Fact<br><br>Did you know? I once soared through the skies as an aeronautical enthusiast, and now, I'm conquering the digital clouds with lines of code. ✈️💻 From airplanes to algorithms, my journey has been an exhilarating adventure!<br><br>Feel free to join me on this exciting coding expedition! 🚁🌐</p>
+<p align="left">Hey there! I'm on a thrilling journey, navigating through the ever-expanding digital landscape.<br> <br>-🚀 Currently working in a Logicmines company in Jaipur, I am Full stack java developer working on vue and springboot related Projects that spark my creativity.<br>- Actively engaged in mastering the art of Full-Stack-Web Development.<br>- 🎯 My goal: Attaining great expertise in Full Stack Development by the end of 2024.<br><br>🌈 Fun Fact<br><br>Did you know? I once soared through the skies as an aeronautical enthusiast, and now, I'm conquering the digital clouds with lines of code. ✈️💻 From airplanes to algorithms, my journey has been an exhilarating adventure!<br><br>Feel free to join me on this exciting coding expedition! 🚁🌐</p>
 
 ###
 
